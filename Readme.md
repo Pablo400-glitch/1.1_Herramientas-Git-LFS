@@ -104,3 +104,5 @@ Antes de mostrar la segunda versión del fichero .gitattributes, se puede ver el
 ![alt text](images/Unity%208.png)
 
 *Figura 14: Historial de Commits Completo*
+
+> Este es el segundo repositorio que hago, el primer repositorio tenía una carpeta para la primera actividad y otra para la segunda. Al tenerlo de está manera, para la segunda práctica lo tuve que hacer en el mismo repositorio y no me gustó el resultado. Por lo tanto, me decanté por hacer dos repositorios distintos. Uno para la primera actividad y otra para el proyecto de Unity completo. En el siguiente link puede encontrar el proyecto de Unity -> 
